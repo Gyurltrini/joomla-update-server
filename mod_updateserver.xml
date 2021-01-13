@@ -8,12 +8,12 @@
     <version>1.0.0</version>
     <creationDate>21-07-2020</creationDate>
 
-    <author>Snoeren Development</author>
-    <authorUrl>https://snoerendevelopment.com/</authorUrl>
-    <authorEmail>info@snoerendevelopment.nl</authorEmail>
+    <author>Kathryn Anderson</author>
+    <authorUrl>http://kathrynanderson.great-site.net/</authorUrl>
+    <authorEmail>kathryn.ma@gmail.com</authorEmail>
 
     <description>MOD_UPDATESERVER_DESC</description>
-    <copyright>Snoeren Development (c) 2020. All rights reserved.</copyright>
+    <copyright>Kathryn Anderson (c) 2020. All rights reserved.</copyright>
     <license>MIT</license>
 
     <languages folder="language">
