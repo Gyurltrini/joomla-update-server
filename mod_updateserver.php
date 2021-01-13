@@ -4,8 +4,8 @@ declare(strict_types = 1);
 /**
  * @package   Update Server
  * @version   1.0.0
- * @author    Snoeren Development
- * @copyright Snoeren Development (c) 2020
+ * @author    Kathryn Anderson
+ * @copyright Kathryn Anderson (c) 2020
  * @license   MIT
  */
 
