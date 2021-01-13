@@ -17,8 +17,8 @@
         <tags>
             <tag>stable</tag>
         </tags>
-        <maintainer>Snoeren Development</maintainer>
-        <maintainerurl>https://snoerendevelopment.com/</maintainerurl>
+        <maintainer>Kathryn Anderson</maintainer>
+        <maintainerurl>http://kathrynanderson.great-site.net/</maintainerurl>
         <targetplatform name="joomla" version="[34].[0123456789]" />
     </update>
     <update>
